@@ -1,17 +1,13 @@
-## Hi there 👋
+## Arbor Finance 🌳 - Protocol
+A project to help DAOs grow by making debt financing on-chain easy.
 
-<!--
+Find the repositories for the [Contracts](https://github.com/alwaysbegrowing/arbor-contracts), [Frontend](https://github.com/alwaysbegrowing/arbor-frontend), and [Docs](https://github.com/alwaysbegrowing/arbor-docs)
 
-**Here are some ideas to get you started:**
+### Always be Growing
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are a talented group of engineers focused on growing the web3 ecosystem. Learn more at https://abg.garden
 
-What does always be growing mean? To grow you need to learn and to always be growing you need to always be learning. 
+**What does always be growing mean?** To grow you need to learn and to always be growing you need to always be learning. 
 
 Never stop thinking. Your eyes and ears are always open; everything and everyone gives you an opportunity to learn.
 
