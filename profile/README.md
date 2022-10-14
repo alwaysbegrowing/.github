@@ -5,7 +5,7 @@ Find the repositories for the [Contracts](https://github.com/alwaysbegrowing/arb
 
 ### Always be Growing
 
-We are a talented group of engineers focused on growing the web3 ecosystem. Learn more at https://abg.garden
+We are a group of engineers & builders focused on growing the web3 ecosystem. Learn more at https://abg.garden
 
 **What does always be growing mean?** To grow you need to learn and to always be growing you need to always be learning. 
 
